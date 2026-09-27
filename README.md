@@ -165,3 +165,4 @@ Real payments, investment contracts, lending, equity, and returns are intentiona
 > Skills should not go to waste simply because someone does not have enough capital to begin.
 
 StallUp aims to help local food entrepreneurs turn their skills into sustainable businesses through discovery, trust, and meaningful support.
+##Contribution:Ankan Pandey, Deepika Sahu, Zoha Haroon, Takeswar Nirmalkar
